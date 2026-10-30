@@ -1,0 +1,10 @@
+# Prueba de origen — certificado de origen T-MEC (USMCA) — CASO FICTICIO
+Tipo: e-CRT (certificado de origen electrónico T-MEC)
+Folio: MXUS-2026-11830 · Fecha expedición: 2026-10-15 · Vigencia declarada: 12 meses
+Exportador/certificador: Northern States Supply Co., Houston TX
+Importador: Andén Norte, S. de R.L., Nuevo Laredo
+Líneas amparadas por el certificado:
+  L1 AN-4401 Válvula de bola 2in acero inoxidable — fracción origen 8481.80 — CUMPLEN
+  L2 AN-2210 Sello mecánico eje 45mm vitón — fracción origen 8484.20 — CUMPLEN
+  (la línea 3, AN-9033 Manómetro, NO aparece en el certificado: el proveedor la omitió)
+Criterio de origen invocado: originación (inciso 4.2 del capítulo 4 del T-MEC, caso ficticio)

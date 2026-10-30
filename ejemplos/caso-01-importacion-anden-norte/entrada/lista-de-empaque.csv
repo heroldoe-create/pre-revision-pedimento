@@ -1,0 +1,7 @@
+# Lista de empaque PL-NS-8834 — CASO FICTICIO
+folio,fecha,linea,sku,descripcion,cantidad,bultos_tipo,bultos,peso_neto_kg,peso_bruto_kg
+PL-NS-8834,2026-10-20,1,AN-4401,Válvula de bola 2in acero inoxidable,500,caja,60,620.00,640.00
+PL-NS-8834,2026-10-20,2,AN-2210,Sello mecánico eje 45mm vitón,300,caja,36,350.00,380.00
+PL-NS-8834,2026-10-20,3,AN-9033,Manómetro glicerina 0-160 psi,180,caja,22,220.00,240.00
+# Totales lista de empaque: cantidad 980 · bultos 118 cajas · peso neto 1190 kg · peso bruto 1260 kg
+# NOTA: la línea 3 llegó embarcada incompleta según el almacén del proveedor (ver salida esperada)

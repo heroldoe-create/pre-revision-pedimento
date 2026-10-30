@@ -1,0 +1,7 @@
+# COVE (Documento Electrónico de Valor Comercial, VUCEM) — CASO FICTICIO
+folio,fecha,moneda,linea,sku,descripcion,cantidad,fraccion_arancelaria,valor_unitario,valor_total,pais_origen
+26VE-CI-4471100,2026-10-24,USD,1,AN-4401,Válvula de bola 2in acero inoxidable,500,8481.80.99,12.00,6000.00,USA
+26VE-CI-4471100,2026-10-24,USD,2,AN-2210,Sello mecánico eje 45mm vitón,300,8484.20.01,8.50,2550.00,USA
+26VE-CI-4471100,2026-10-24,USD,3,AN-9033,Manómetro glicerina 0-160 psi,200,9026.20.01,15.00,3000.00,USA
+# Valor total mercancía COVE: 11550.00 USD
+# Nota del caso: el COVE coincide con la factura línea por línea; el choque es COVE/factura contra pedimento (línea 2).

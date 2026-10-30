@@ -1,0 +1,10 @@
+# Documento de transporte (conocimiento de embarque terrestre, BOL) — CASO FICTICIO
+Folio BOL: ANTF-8843200
+Tipo: BOL terrestre (carretera) · Fecha embarque: 2026-10-22 · Origen: Houston, TX (USA)
+Cruce / aduana destino: Nuevo Laredo por puente internacional (cruce terrestre)
+Unidad de transporte: caja seca 53' · Sello: NSL-77821
+Shipper (exportador): Northern States Supply Co., Houston TX
+Consignatario: Anden Norte Logistics S.A. de C.V., Nuevo Laredo   <-- OJO: nombre distinto al importador del pedimento
+Descripción: 120 cartons valves / mechanical seals / glycerin gauges (invoice INV-NS-8834)
+Peso bruto declarado en BOL: 1240 kg · Bultos: 120 cartons
+Flete Houston → Nuevo Laredo: USD 1150.00 (collect, según cláusula del BOL)

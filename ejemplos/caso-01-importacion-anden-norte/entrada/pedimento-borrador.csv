@@ -1,0 +1,16 @@
+# Pedimento BORRADOR (resumen de papeleta) — CASO FICTICIO, Andén Norte
+# Importador: Andén Norte, S. de R.L. (ficticio) · Agencia: Frontera Norte Aduanas, patente 3991 (ficticia)
+# Aduana: 240 Nuevo Laredo · Régimen: 01 Importación definitiva · Fecha elaboración: 2026-10-30 (ficticia)
+# Número de pedimento (borrador): 26 24 3991 6000123 (ficticio) · Clave de pedimento: A1 (ficticia del caso)
+# Tipo de cambio declarado: 18.50 MXN/USD (ficticio, del caso) · Moneda de valoración: USD
+# Trato preferencial declarado: USMCA (T-MEC) en todas las líneas
+# Moneda del caso: en un pedimento real el valor en aduana se expresa en pesos; el caso usa USD
+#   para simplificar los cruces. La columna por línea es valor COMERCIAL (factura, sin
+#   incrementables); el valor en aduana se forma al total, sumando los incrementables de abajo.
+linea,fraccion_tigie,descripcion,sku,cantidad,umt,valor_unitario_usd,valor_comercial_usd,pais_origen
+1,8481.80.99,Válvula de bola 2in acero inoxidable,AN-4401,500,pza,12.00,6000.00,USA
+2,8484.20.01,Sello mecánico eje 45mm vitón,AN-2210,300,pza,8.05,2415.00,USA
+3,9026.20.01,Manómetro glicerina 0-160 psi,AN-9033,200,pza,15.00,3000.00,USA
+# Incrementables declarados en el pedimento:
+#   Flete internacional: 1150.00 USD   Seguro: 85.00 USD   Total incrementables: 1235.00 USD
+# Valor aduana total declarado en el pedimento: 12650.00 USD

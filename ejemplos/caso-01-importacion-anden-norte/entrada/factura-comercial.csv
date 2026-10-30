@@ -1,0 +1,6 @@
+# Factura comercial Northern States Supply Co. (proveedor FICTICIO, Houston TX) — CASO FICTICIO
+folio,fecha,moneda,linea,sku,descripcion,cantidad,precio_unitario,importe
+INV-NS-8834,2026-10-18,USD,1,AN-4401,Válvula de bola 2in acero inoxidable,500,12.00,6000.00
+INV-NS-8834,2026-10-18,USD,2,AN-2210,Sello mecánico eje 45mm vitón,300,8.50,2550.00
+INV-NS-8834,2026-10-18,USD,3,AN-9033,Manómetro glicerina 0-160 psi,200,15.00,3000.00
+# Total factura: 11550.00 USD · Total bultos declarados en factura: 120 cajas · Incoterm: CIP Nuevo Laredo (el vendedor paga flete y seguro hasta la plaza)
